@@ -1,4 +1,4 @@
-FROM graylog/graylog:3.0.0-1
+FROM graylog/graylog:3.0.1-1
 
 ENV GRAYLOG_SLACK_PLUGIN=3.1.0
 
