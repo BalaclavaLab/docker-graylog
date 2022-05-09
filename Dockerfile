@@ -1,4 +1,4 @@
-FROM graylog/graylog:3.3.15-1
+FROM graylog/graylog:4.2.9
 
 ENV GRAYLOG_ALERTMANAGER_PLUGIN=1.2.2
 
